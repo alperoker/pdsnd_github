@@ -221,5 +221,7 @@ def main():
 
 print('My name is Alper Oker')
 
+print('This is my git hub project')
+
 if __name__ == "__main__":
 	main()
