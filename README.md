@@ -7,10 +7,10 @@ This file is created on 12 JUNE 2022 by ALPER OKER
 The project title is POST YOUR PROJECT ON GITHUB 
 
 ### Description
-Describe what your project is about and what it does
+This project is about learning about git by posting on github
 
 ### Files used
-Include the files used
+The file used is bikeshare_2.py from python project
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
